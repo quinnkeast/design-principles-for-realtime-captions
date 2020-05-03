@@ -24,8 +24,8 @@ The act of using captions must not distinguish an individual from other conversa
 4. **Don't single out the use of captions.**  
 When joining a video call, all participants are aware that they are sharing their audio and video with other participants. Each participant can choose to share or not share their audio and video. People relying on captions should not be singled out as using captions, as captions aren't recordings: they're an alternate form of audio that other participants choose to share.
 
-5. **Captions are a choice that must be present outside the immediate context of a video call.**  
-Never put people in a position where they have gaps in accessibility. Give people control over enabling captions before they enter a conversation, in the same way people have control over their camera and microphone settings before they join a call. And respect their choices: if someone chooses to use captions, remember that choice for the next call.
+5. **Caption preferences must be equal to video and audio preferences.**  
+Never put people in a position where they have gaps in accessibility. Give people control over enabling captions before they enter a conversation, and expose caption preferences alongside video and audio preferences both inside and outside an active call. And respect their choices: if someone chooses to use captions, remember that choice for the next call.
 
 6. **Prioritize something over nothing.**  
 Humans are incredible at using context to derive meaning. Machine learning has a long way to go. That's why we should prioritize something over nothing. If the speech-to-text engine isn't confident in a specific transcription and is likely to make adjustments with further context, deliver it anyway with confidence indicators and make corrections as they become available.
@@ -43,13 +43,13 @@ A real-time speech-to-text system is an inherent black box. That's why there nee
 Don't make it the user's responsibility to interrupt and inform others when the captions aren't working. Provide feedback to all participants and allow everyone to contribute to creating an inclusive environment.
 
 11. **Provide fallbacks for all users when captions experience a failure.**  
-Text-based messaging places all participants on equal ground when captions experience failures such as network or processing errors. If a participant is relying on captions for accessibility, a failure should trigger a text-based messaging alternative for all users.
+Text-based messaging places all participants on equal ground when captions experience failures such as network or processing errors. Make sure text-based messaging is available and usable to all participants.
 
 12. **Provide access to the complete conversation.**  
 People who use audio in video calls can look away, dismiss a random notification, or close a window without losing track of the conversation. People relying on captions must have this same flexibility. Requiring constant and undivided visual attention to avoid missing content is unfair for people that rely on captions. In practice, this means giving people who use captions the ability to go back and see what they missed.
 
 13. **Protect privacy in ongoing conversations.**  
-When someone joins a video call already underway, they don't have access to what was already said unless the call was recorded. The same should apply for captioning. Only those who were part of the conversation should have access to that part of the conversation in the caption history.
+When someone joins a video call already underway, they don't have access to what was already said unless the call was recorded. The same should apply for captioning. People should only have access to the caption history from the point when they joined the conversation.
 
 14. **Prioritize offline processing, and clearly explain how privacy is protected during processing.**  
 Give all participants information and assurance around how audio is processed and converted into text and what privacy implications exist as a result. Encryption and data concerns should apply equally to captions as to audio and video processing and streaming.

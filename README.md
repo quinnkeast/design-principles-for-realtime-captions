@@ -1,4 +1,4 @@
-# Design Principles for Real-Time Captions in Video Calling
+# Design Principles for Real-Time Captions in Video Platforms
 
 We're at a threshold where the technology exists to create a truly inclusive world for those living with hearing loss. Let's do it together - and get the details right.
 

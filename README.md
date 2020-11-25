@@ -1,12 +1,10 @@
 # Design Principles for Real-Time Captions in Video Calling
 
-Over the last few months, workplace conversation and communication has adapted to the rise in remote work by shifting  largely to some form of video calling.
-
 We're at a threshold where the technology exists to create a truly inclusive world for those living with hearing loss. Let's do it together - and get the details right.
 
-For people living with hearing loss, video calls are broadly inaccessible and exclusive. But we're at a threshold where the technology exists to make these tools accessible to everyone. Google Meet now has real-time captions. Other real-time speech-to-text tools like Otter are flourishing.
+For people living with hearing loss, video platforms are broadly inaccessible and exclusive. But we're at a threshold where the technology exists to make these tools accessible to everyone. Google Meet now has real-time captions. Other real-time speech-to-text tools like Otter are flourishing.
 
-The challenge: real-time captioning in video calls is a new problem space with its own risks, challenges, and opportunities. If we get it right, we'll create more accessible and inclusive platforms and workplaces. If we get it wrong, we can create frustration, stigma, and lasting social and professional damage. That's why we need clear and considered design principles to guide our efforts.
+The challenge: real-time captioning in video platforms is a new problem space with its own risks, challenges, and opportunities. If we get it right, we'll create more accessible and inclusive platforms and workplaces. If we get it wrong, we can create frustration, stigma, and lasting social and professional damage. That's why we need clear and considered design principles to guide our efforts.
 
 These are design principles I've identified that I believe any implementation of real-time captioning in video calling should adhere to. These principles together provide a positive, usable, and inclusive experience for participants who rely on captions for accessibility.
 
